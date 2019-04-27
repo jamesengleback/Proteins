@@ -3,7 +3,7 @@
 Some of my tools for protein related work
 <br/>
 # Contents
-### Voxel maps
+### [Voxel maps](https://github.com/jamesengleback/Proteins/blob/master/20181003-Voxel%20maps.ipynb)
 This was some early work I was doing on [KDEEP](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00650) by Jiménez et al. in 2018.
 This paper is very cool, it's a 3D convolutional neural network that predicts how tightly a chemical will [bind](https://en.wikipedia.org/wiki/Dissociation_constant) to a protein.
 
